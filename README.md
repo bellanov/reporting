@@ -1,2 +1,2 @@
 # reporting
-Tools to analyze and measure internal system state via KPIs.
+Visualize **Key Performance Indicators (KPIs)** through a series of **executive reports**.
