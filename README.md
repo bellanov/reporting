@@ -9,3 +9,4 @@ Visualize **Key Performance Indicators (KPIs)** through a series of **executive 
 ## Core Ideas
 - visualize the environment's **_Key Performance Indicators (KPIs)_** in a series of **_executive reports_**
 - the visualizations should be as **_live_** as possible, continuously polling for **_new_** or **_updated_** KPIs.
+- **_stupid_** components over **_smart_** components whenever possible
