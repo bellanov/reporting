@@ -1,8 +1,6 @@
 # reporting
 Visualize **Key Performance Indicators (KPIs)** through a series of **executive reports**.
 
-## Dependencies
-
 | Dependencies  | Description |
 | ----------- | ----------- |
 | *VueJS 3*      | anapproachable, performant and versatile framework for building web user interfaces. |
