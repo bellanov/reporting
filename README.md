@@ -3,7 +3,7 @@ Visualize **Key Performance Indicators (KPIs)** through a series of **executive 
 
 | Dependencies  | Description |
 | ----------- | ----------- |
-| *VueJS 3*      | anapproachable, performant and versatile framework for building web user interfaces. |
+| *VueJS 3*      | an approachable, performant and versatile framework for building web user interfaces. |
 | *Bootstrap 5*   | the world’s most popular framework for building responsive, mobile-first sites        |
 
 ## Core Ideas
